@@ -23,6 +23,9 @@
 ###
 
 <div align="left">
+  <img src="https://img.shields.io/badge/csharp%20-896cd0.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
@@ -30,7 +33,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/BarbosaP1/BarbosaP1/output/snake.svg" alt="Snake animation" />
 
 ###
