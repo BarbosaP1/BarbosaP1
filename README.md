@@ -36,7 +36,7 @@ I like to develop programs in C#, mod games in c++ and build web services or loc
 </a>
 
 <a href="https://tiktok.com/@barbosayt">
-<img src="https://img.shields.io/badge/Tiktok-black?logo=tiktok"/>
+<img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 </div>
