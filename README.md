@@ -15,14 +15,6 @@ I like to develop programs in C#, mod games in c++ and build web services or loc
 
 ---
 
-## 🖼️ Profile
-
-<img align="left" height="150" src="https://barbosaapi.onrender.com/pictures/defaultpfp" />
-
-<br><br><br><br><br><br>
-
----
-
 ## 🛠️ Known Languages
 
 <div align="left">
