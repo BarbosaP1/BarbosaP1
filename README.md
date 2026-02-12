@@ -1,23 +1,65 @@
-<h2 align="left">BarbosaP1</h2>
+<h1 align="left">Hey I'm Barbosa.</h1>
 
-###
+<p align="left">
+I like to develop programs in C#, mod games in c++ and build web services or local scripts in javascript.<br>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BarbosaP1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🧠 About Me
 
-<img align="left" height="150" src="https://cdn.discordapp.com/avatars/1137439232286269562/4a10e97d15944927d7239acae4ec8c21.png?size=2048"  />
+- 🎮 Ex **game modder**
+- 💻 Learning and building projects with **C#** and **.NET**
+- 🌐 Already worked with **JavaScript** and **MongoDB**
+- 🚀 Always experimenting with new ideas and tools
 
-###
+---
+
+## 🖼️ Profile
+
+<img align="left" height="150" src="https://barbosaapi.onrender.com/pictures/defaultpfp" />
+
+<br><br><br><br><br><br>
+
+---
+
+## 🛠️ Known Languages
 
 <div align="left">
-  <img src="https://img.shields.io/badge/csharp%20-896cd0.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C%23-896cd0?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/C%2B%2B-258bb5?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
 </div>
 
-###
+---
+
+## 📷 Social Medias
+
+<div align="left">
+
+<a href="https://youtube.com/@BarbosaYT_">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://tiktok.com/@barbosayt">
+<img src="https://img.shields.io/badge/Tiktok-black?logo=tiktok"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=BarbosaP1&show_icons=true&theme=dark" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbosaP1&layout=compact&theme=dark" height="150"/>
+</p>
+
+---
+
+## ✨ Current Focus
+
+[Rick and Morty Clip Manager](https://github.com/BarbosaP1/Clip-Manager)
