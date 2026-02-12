@@ -6,7 +6,7 @@ I like to develop programs in C#, mod games in c++ and build web services or loc
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 🎮 Ex **game modder**
 - 💻 Learning and building projects with **C#** and **.NET**
@@ -15,7 +15,7 @@ I like to develop programs in C#, mod games in c++ and build web services or loc
 
 ---
 
-## 🛠️ Known Languages
+## Known Languages
 
 <div align="left">
 <img src="https://img.shields.io/badge/C%23-896cd0?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -27,7 +27,7 @@ I like to develop programs in C#, mod games in c++ and build web services or loc
 
 ---
 
-## 📷 Social Medias
+## Social Medias
 
 <div align="left">
 
@@ -43,6 +43,6 @@ I like to develop programs in C#, mod games in c++ and build web services or loc
 
 ---
 
-## ✨ Current Focus
+## Current Project
 
 [Rick and Morty Clip Manager](https://github.com/BarbosaP1/Clip-Manager)
