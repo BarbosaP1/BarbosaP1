@@ -51,15 +51,6 @@ I like to develop programs in C#, mod games in c++ and build web services or loc
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=BarbosaP1&show_icons=true&theme=dark" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbosaP1&layout=compact&theme=dark" height="150"/>
-</p>
-
----
-
 ## ✨ Current Focus
 
 [Rick and Morty Clip Manager](https://github.com/BarbosaP1/Clip-Manager)
