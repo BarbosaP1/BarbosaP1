@@ -20,7 +20,7 @@ I like to develop programs in C#, mod games in c++ and build web services or loc
 <div align="left">
 <img src="https://img.shields.io/badge/C%23-896cd0?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/C%2B%2B-258bb5?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%2B%2B-4287f5?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 </div>
