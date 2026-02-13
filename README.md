@@ -39,6 +39,10 @@ I like to develop programs in C#, mod games in c++ and build web services or loc
 <img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
+<a href="https://pt.namemc.com/profile/BarbosaP1.1">
+<img src="https://img.shields.io/badge/NameMC-ffffff?style=for-the-badge&logo=namemc&logoColor=black"/>
+</a>
+
 </div>
 
 ---
