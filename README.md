@@ -15,7 +15,7 @@ I like to develop programs in C#, mod games in c++ and build web services or loc
 
 ---
 
-## Known Languages
+## Technologies
 
 <div align="left">
 <img src="https://img.shields.io/badge/C%23-896cd0?style=for-the-badge&logo=csharp&logoColor=white"/>
